@@ -1,0 +1,1 @@
+{"Nama_Wilayah":"Jawa Barat","Jumlah_Positif":"1104278","Jumlah_Dirawat":"14963","Jumlah_Sembuh":"1073609","Jumlah_Meninggal":"15706","Nama_Operator":"ARMA TRI WAHYUDI","NIM_Mahasiswa":"191011402659"}

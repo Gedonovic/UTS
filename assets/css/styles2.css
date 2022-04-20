@@ -1,0 +1,13 @@
+body {
+    background-image: url("../img/bg.jpg");
+    color: #fff;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+.form-hasil {
+    text-align: center;
+    padding-top: 150px;
+}
+

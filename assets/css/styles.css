@@ -1,0 +1,29 @@
+body {
+    background-image: url("../img/bg2.jpg");
+    color: #fff;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+.form-index {
+  padding-top: 80px;
+  padding-left: 50%;
+}
+
+table {
+  padding-top: 20px;
+}
+
+table td{
+  padding-top: 20px;
+
+
+}
+
+button {
+  color: rgb(226, 40, 40);
+  width: 310px;
+  height: 35px;
+  
+}
